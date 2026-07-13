@@ -8,7 +8,9 @@
 
 An open-source static random access memory (SRAM) compiler.
 
+# How to use - UDeS
 
+Look in the [wiki here](https://github.com/mtetrault/OpenRAM/wiki)
 
 # What is OpenRAM?
 <img align="right" width="25%" src="https://raw.githubusercontent.com/VLSIDA/OpenRAM/stable/images/SCMOS_16kb_sram.jpg">
